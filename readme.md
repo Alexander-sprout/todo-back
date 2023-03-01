@@ -1,5 +1,6 @@
-#Todo backend
+# Todo backend
 
-##запуск
-'npm start'
-'npm run migration_up'
+## Команды запуска
+- `npm install`
+- `npm start`- запустить для разработки
+- `npm run migration_up` - запуск миграций БД
